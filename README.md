@@ -1,5 +1,7 @@
 # Projet 2 OpenClassRooms : ANALYSEZ DES DONNEES DE SYSTEMES EDUCATIFS
 
+<u>*Auteur : Maxime SCHRODER*</u>
+
 ## Contexte
 
 <p align="center">
